@@ -16,7 +16,7 @@ Cada linha de código que escrevo é uma oportunidade de transformar ideias em a
 📘 **Ciência da Computação**  
     **Centro Universitário UDF – Brasília, DF**  
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens
 
 <img 
     align="left" 
@@ -57,14 +57,6 @@ Cada linha de código que escrevo é uma oportunidade de transformar ideias em a
     width="30px" 
     style="padding-right: 8px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Excel" 
-    title="Excel"
-    width="30px" 
-    style="padding-right: 8px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/excel/excel-original.svg"
 />
 <br><br>
 
