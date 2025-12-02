@@ -2,6 +2,7 @@
 
 **`Analista de Dados`**
 
+Olá!
 Me chamo Luan, tenho 24 anos e sou estudante de Ciência da Computação. 
 
 Desde pequeno, sempre gostei de tecnologia — esse mundo que desperta curiosidade e criatividade.
@@ -13,7 +14,7 @@ Cada linha de código que escrevo é uma oportunidade de transformar ideias em a
 ### 🎓 Formação Acadêmica
 
 📘 **Ciência da Computação**  
-**Centro Universitário UDF – Brasília, DF**  
+    **Centro Universitário UDF – Brasília, DF**  
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -59,15 +60,15 @@ Cada linha de código que escrevo é uma oportunidade de transformar ideias em a
 />
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="Excel" 
+    title="Excel"
     width="30px" 
     style="padding-right: 8px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/excel/excel-original.svg"
 />
 <br><br>
 
-### Conecte-se comigo
+### Mande uma mensagem para mim
 
 <a href="https://www.linkedin.com/in/luanbispo13/" target="_blank">
     <img 
