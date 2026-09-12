@@ -1,17 +1,3 @@
-# 👨🏻‍💻 Luan Bispo Silva
-
-**`Analista de Dados`**
-
-Opa!  
-Me chamo Luan, tenho 24 anos e sou formado em Ciência da Computação.  
-
-Desde pequeno, sempre gostei de tecnologia — esse mundo que desperta curiosidade e criatividade.  
-Com o tempo, essa afinidade se transformou em propósito.  
-
-Cada linha de código e análise que desenvolvo é uma oportunidade de transformar dados e ideias em soluções reais, funcionais e estratégicas.
-
----
-
 ### 🎓 Formação Acadêmica
 
 📘 **Ciência da Computação - Centro Universitário UDF – Brasília, DF**  
