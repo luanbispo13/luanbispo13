@@ -1,42 +1,9 @@
-### 🎓 Formação Acadêmica
+<h1 align="center">Luan Bispo Silva</h1> <p align="center"> Estudante de Ciência da Computação com foco em dados e bancos de dados </p> <p align="center"> <a href="https://www.linkedin.com/in/luanbispo13/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> </p>
+🎓 Formação
 
-📘 **Ciência da Computação - Centro Universitário UDF – Brasília, DF**  
+Ciência da Computação, Centro Universitário UDF, Brasília - DF
 
----
-
-### 💻 Linguagens e Bancos de Dados
-
-<div style="display: inline_block">
-  <img align="left" alt="Python" title="Python" width="34px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="left" alt="PostgreSQL" title="PostgreSQL" width="34px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img align="left" alt="MySQL" title="MySQL" width="34px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img align="left" alt="SQLite" title="SQLite" width="34px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
-  <img align="left" alt="Google Apps Script" title="Google Apps Script" width="34px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
-  <img align="left" alt="HTML5" title="HTML5" width="34px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align="left" alt="CSS3" title="CSS3" width="34px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-</div>
-
-<br><br>
-
----
-
-### 📊 Análise de Dados e Ferramentas
-
-<div style="display: flex; gap: 8px; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Power_Query-0078D4?style=for-the-badge&logo=powerquery&logoColor=white" alt="Power Query" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Workspace" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-</div>
-
-<br>
-
----
-
-### 📬 Conecte-se comigo
-
-<a href="https://www.linkedin.com/in/luanbispo13/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+💻 Linguagens e Bancos de Dados
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" /> <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat-square&logo=googleappsscript&logoColor=white" alt="Google Apps Script" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /> </p>
+📊 Análise de Dados e Ferramentas
+<p> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" /> <img src="https://img.shields.io/badge/Power_Query-0078D4?style=flat-square&logo=powerquery&logoColor=white" alt="Power Query" /> <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" /> <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Workspace" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" /> </p>
